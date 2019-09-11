@@ -6,14 +6,22 @@
 ![How to create your portfolio website using React.js](https://cdn-media-1.freecodecamp.org/images/1*7snm7ve4mLm3kwrPl0r2ig.png)
 
 After my friends canceled our weekend plans ?, I was looking for something to kill time and finally ended up with a plan to create a portfolio website after going through my long pending list of ‘**W**ish-To-Do’ **t**hings.
+周末居然被朋友放鸽子了，所以我准备找点事情来打发时间，在浏览我长期“心愿列表”之后，我决定用react来做一整套网站。
+
 
 Many hours of searching for technologies and templates later, I ended up creating  [this][1]website using React.js and deploying it using Github pages. You can find the code for the website  [here][2]  (It’s called a ‘**web-app**’ technically, but for this article, I will be referring to it as a ‘website’ … I hope that’s ok ?).
-
+在经过几个小时的查看教程和模板，我最终做用react建立一个网站，并且部署到Github账户上了。（在技术上它只能被称为 ‘**网页**’，但对于这篇文章，我将它称为'网站'......我希望这没关系？）
 ## What you will learn
+
 
 -   Some basic concepts of React.js
 -   Create React-app from HTML website
 -   Deploy your portfolio website using ‘Github pages’
+##接下来你会学到的
+-   React.js的一些基本概念
+-   从HTML网站创建React-app
+-  部署你的网站到“Github 主页”
+
 
 ## Some concepts you need to know before we start ..
 
@@ -21,9 +29,14 @@ Many hours of searching for technologies and templates later, I ended up creatin
 >   
 > _Note — these points will provide a very basic idea of the React world. I highly recommend you to study more about React from the  [documentation][3]  and get hands-on with the help of  [freeCodeCamp][4]._
 
+##在开始学习之前你需要知道一些概念
+
 ### What is React.js >
 
 For now, it is enough to know that React.js is the JavaScript library used for building UI components. It was created by the engineers of Facebook and nowadays, it is rocking the JavaScript world..
+
+##React.js是社么
+目前，只需要知道React.js是用于构建UI组件的JavaScript库就足够了。它是由Facebook和现在的工程师创建的，它颠覆了JavaScript世界
 
 ### What is a React Component >
 
@@ -42,6 +55,10 @@ import React, { Component } from 'react'
 
 
 ```
+
+##React组件是社么
+React允许您将组件定义为类或函数。 你可以为这个组件提供可选输入称此为‘**props**’.组件允许您将UI拆分为**独立**部分 比如 头部，尾部，正文。
+每个组件都将独立工作，因此任何单个组件都可以独立呈现到[ReactDOM] [5]而不会影响整个页面。
 
 ### What is  [GitHub Pages][6]  \>
 
