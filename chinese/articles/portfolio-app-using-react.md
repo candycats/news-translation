@@ -17,7 +17,7 @@ Many hours of searching for technologies and templates later, I ended up creatin
 -   Some basic concepts of React.js
 -   Create React-app from HTML website
 -   Deploy your portfolio website using ‘Github pages’
-##接下来你会学到的
+## 接下来你会学到的
 -   React.js的一些基本概念
 -   从HTML网站创建React-app
 -  部署你的网站到“Github 主页”
@@ -35,7 +35,7 @@ Many hours of searching for technologies and templates later, I ended up creatin
 
 For now, it is enough to know that React.js is the JavaScript library used for building UI components. It was created by the engineers of Facebook and nowadays, it is rocking the JavaScript world..
 
-##React.js是社么
+## React.js是社么
 目前，只需要知道React.js是用于构建UI组件的JavaScript库就足够了。它是由Facebook和现在的工程师创建的，它颠覆了JavaScript世界
 
 ### What is a React Component >
@@ -56,19 +56,28 @@ import React, { Component } from 'react'
 
 ```
 
-##React组件是社么
+## React组件是社么
 React允许您将组件定义为类或函数。 你可以为这个组件提供可选输入称此为‘**props**’.组件允许您将UI拆分为**独立**部分 比如 头部，尾部，正文。
 每个组件都将独立工作，因此任何单个组件都可以独立呈现到[ReactDOM] [5]而不会影响整个页面。
+React组件还带有**'生命周期方法**'，它允许您根据组件的状态定义要执行的代码片段，如挂载，渲染，更新和卸载。
+React组件有自己的权衡取舍。 例如，我们可以通过将组件导出到其他组件来重用组件，但有时处理多个组件并相互触发渲染会让人感到困惑。
+下面是一个组件的样例
 
 ### What is  [GitHub Pages][6]  \>
 
 With GitHub Pages, you can easily deploy your site using GitHub for free and without the need to set up any infrastructure. They have provided modules so that you don’t have to worry about many things. If you stick around till the end you’ll see that it works like MAGIC!
+### 什么是[GitHub 主页[6]  \>
+使用Github,你可以轻易地将你的网站免费部署到Github上，不需要建立任何基础设施，网站提供模板，所以很多事情都不用担心。如果你坚持到最后，你会发现它像魔法一样工作！
 
 ## Before you go ahead make sure to ..  
 
 ### Decide what content you want to put up on your website
 
 Go through your latest resume once (if you don’t have one then  [create one now][7]  and postpone this project until next weekend ?). It will help you to have a clear idea about what kind of information you want to put on your portfolio website.
+
+## 在你继续之前一定要确保
+### 确定网站的内容
+
 
 ### Find inspiration
 
