@@ -80,9 +80,11 @@ Go through your latest resume once (if you don’t have one then  [create one no
 
 
 ### Find inspiration
-### 寻找灵感
+
 
 Browse through the hundreds of free portfolio website templates on the web, see how and what you can use from them — take out a pen and paper and sketch out a rough diagram to get an idea of what your website will look like. I will be using  [this][8]  template to demonstrate.
+### 寻找灵感
+
 
 ### Gather some amazing pictures of yourself
 
