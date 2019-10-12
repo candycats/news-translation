@@ -75,16 +75,16 @@ With GitHub Pages, you can easily deploy your site using GitHub for free and wit
 
 Go through your latest resume once (if you don’t have one then  [create one now][7]  and postpone this project until next weekend ?). It will help you to have a clear idea about what kind of information you want to put on your portfolio website.
 
-## 在你继续之前一定要确保
+## 在你继续之前一定要确保 ..
 ### 确定网站的内容
-
+查看一下您的最新简历（如果您没有，请[现在创建] [7]，然后将此项目推迟到下周末？）。 这将帮助您对要在组合网站上发布的信息类型有一个清晰的认识。
 
 ### Find inspiration
 
 
 Browse through the hundreds of free portfolio website templates on the web, see how and what you can use from them — take out a pen and paper and sketch out a rough diagram to get an idea of what your website will look like. I will be using  [this][8]  template to demonstrate.
 ### 寻找灵感
-
+浏览Web上数百个免费的网站模板，查看如何使用它们以及从中使用什么-拿出笔和纸，绘制出粗略的图表，以了解您的网站的外观。 我将使用[this] [8]模板进行演示。
 
 ### Gather some amazing pictures of yourself
 
